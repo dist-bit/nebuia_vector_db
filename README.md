@@ -26,7 +26,7 @@ A high-performance Vector Search API built with Go, designed to efficiently stor
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vector-search-api.git
+git clone [https://github.com/yourusername/vector-search-api.git](https://github.com/dist-bit/nebuia_vector_db)
 cd vector-search-api
 ```
 
